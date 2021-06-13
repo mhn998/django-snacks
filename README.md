@@ -1,22 +1,6 @@
-.
-├── README.md
-├── manage.py
-├── poetry.lock
-├── pyproject.toml
-├── snacks
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   │   └── __init__.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-└── snacks_project
-    ├── __init__.py
-    ├── asgi.py
-    ├── settings.py
-    ├── urls.py
-    └── wsgi.py
-
-3 directories, 16 files
+### Create web site in Django with 2 pages
+- home page
+- about page
+- create views/urls/templates as needed for home and about pages
+- use ancestor template to contain navigation elements
+- Should be built the “Django way” aka match the structure of in-class demo
