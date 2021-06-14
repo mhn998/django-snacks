@@ -7,4 +7,7 @@
 
 django_snacks PR:
 
- [PR](https://github.com/mhn998/django-snacks/pull/1)
+ [PR1](https://github.com/mhn998/django-snacks/pull/1)
+
+
+ [PR2](https://github.com/mhn998/django-snacks/pull/2)
